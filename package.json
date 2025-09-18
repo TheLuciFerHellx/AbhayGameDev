@@ -1,0 +1,11 @@
+{
+  "name": "abhay-portfolio",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node start-local.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
